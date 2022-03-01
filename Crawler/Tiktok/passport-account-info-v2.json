@@ -1,0 +1,10 @@
+{
+    "data": {
+        "description": "session expired, please sign in again", 
+        "error_code": 13, 
+        "name": "account_info_error", 
+        "session_key": "5002ba6d200491ccfe3133a225e1c75d", 
+        "user_id": 0
+    }, 
+    "message": "error"
+}

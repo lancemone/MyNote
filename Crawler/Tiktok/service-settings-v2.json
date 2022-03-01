@@ -1,0 +1,1578 @@
+{
+    "a": {
+        "data": {
+            "a": {
+                "__logid": {
+                    "b": "202112160946010101040281103D7242B3"
+                }, 
+                "settings_time": {
+                    "b": {
+                        "a": "1639647961"
+                    }
+                }, 
+                "default": {
+                    "a": {
+                        "clear_app_notify": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "article_expire_seconds": {
+                            "b": {
+                                "a": "600"
+                            }
+                        }, 
+                        "night_mode": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "apn_notify": {
+                            "b": {
+                                "a": "1"
+                            }
+                        }, 
+                        "repost_favor": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "repost_digg": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "comment_mode": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "refresh_mode": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "image_mode": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "flow_mode": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "swipe_mode": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "switch_domain": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "fullscreen_mode": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "font_size": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "list_mode": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "save_position": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }
+                    }
+                }, 
+                "app": {
+                    "a": {
+                        "shared_extended_object_enabled": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "new_moment_detail": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "im_server_enable": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "new_comment_style": {
+                            "b": {
+                                "a": "1"
+                            }
+                        }, 
+                        "allow_permanent_notify": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "better_settings": {
+                            "a": {
+                                "on_off": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }
+                            }
+                        }, 
+                        "category_tip_interval": {
+                            "b": {
+                                "a": "540"
+                            }
+                        }, 
+                        "enable_search_initial_page_wap": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "ugc_user_medal": {
+                            "a": { }
+                        }, 
+                        "anr_switch": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "aweme_show_button_seconds": {
+                            "b": {
+                                "a": "3"
+                            }
+                        }, 
+                        "allow_push_daemon_monitor": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "repost_place_holder": {
+                            "b": ""
+                        }, 
+                        "keep_notification": {
+                            "a": {
+                                "keep_notification_enable": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }
+                            }
+                        }, 
+                        "allow_off_alive": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "video_reuse_surface_texture": {
+                            "b": {
+                                "a": "1"
+                            }
+                        }, 
+                        "aweme_base_conf": {
+                            "a": {
+                                "usePrecreatePool": {
+                                    "b": true
+                                }, 
+                                "iwk_disable_config_method": {
+                                    "b": true
+                                }, 
+                                "use_new_database": {
+                                    "b": true
+                                }, 
+                                "enable_memory_usage_track": {
+                                    "b": true
+                                }, 
+                                "slardar": {
+                                    "a": {
+                                        "enable_alog": {
+                                            "b": true
+                                        }, 
+                                        "crash_reporter": {
+                                            "b": true
+                                        }
+                                    }
+                                }, 
+                                "enable_init_im_at_coldstart": {
+                                    "b": true
+                                }, 
+                                "awe_placeholder": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "iwk_use_bridge_engine_v2": {
+                                    "b": true
+                                }, 
+                                "awe_defer_live_init": {
+                                    "b": true
+                                }, 
+                                "enable_log_manager_under_ios10": {
+                                    "b": false
+                                }, 
+                                "enable_animated_image_buffer_clean": {
+                                    "b": true
+                                }, 
+                                "enable_fix_ins_keyboard_appear_error": {
+                                    "b": true
+                                }, 
+                                "security_enable_check_env": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "prevent_snapchat_crash": {
+                                    "b": true
+                                }, 
+                                "fix_ios14_crash": {
+                                    "b": true
+                                }, 
+                                "awe_enable_watermark_background": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "yam_config": {
+                                    "a": {
+                                        "yam_enable": {
+                                            "b": {
+                                                "a": "0"
+                                            }
+                                        }, 
+                                        "yam_oom_detector_enable": {
+                                            "b": {
+                                                "a": "0"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "disable_ios_firebase_delay_register": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }, 
+                                "useWebBlankDetect": {
+                                    "b": false
+                                }, 
+                                "enable_memory_warning_handling": {
+                                    "b": true
+                                }, 
+                                "aweme_optimize_main_thread_enable": {
+                                    "b": true
+                                }, 
+                                "enable_transitionView_frame_correction": {
+                                    "b": false
+                                }, 
+                                "iwk_enable_iframe_jsb": {
+                                    "b": true
+                                }, 
+                                "awe_mask_window_hidden": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }, 
+                                "profile_universal_links_first": {
+                                    "b": false
+                                }, 
+                                "can_be_obs_live_podcast": {
+                                    "b": false
+                                }, 
+                                "enable_mt_share_prop": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "awe_wk_allow_list": {
+                                    "a": [
+                                        {
+                                            "b": "^(?!http(s?)://((.*.(surveymonkey.com|cocacola.co.jp)))).*"
+                                        }
+                                    ]
+                                }, 
+                                "enable_bootloader": {
+                                    "b": true
+                                }, 
+                                "enable_authorize_instagram_with_english": {
+                                    "b": false
+                                }, 
+                                "search_fast_refresh": {
+                                    "b": true
+                                }, 
+                                "async_render_comments": {
+                                    "b": true
+                                }, 
+                                "disable_clarity_adapt": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "image_memory_cache_limt_of_old_devices": {
+                                    "b": {
+                                        "a": "50"
+                                    }
+                                }, 
+                                "hts_automark_launch_comp": {
+                                    "b": true
+                                }, 
+                                "general_search_refresh_count": {
+                                    "b": {
+                                        "a": "10"
+                                    }
+                                }, 
+                                "awe_gecko_prefixes": {
+                                    "a": [
+                                        {
+                                            "b": "http(s?)://lf77-gecko-source.tiktokcdn.com/obj/byte-gurd-source-sg/8/gecko/resource/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-sg.ibytedtos.com/goofy/i18n/ecom/client_h5/view/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-va.ibytedtos.com/goofy/i18n/ecom/client_h5/view/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-gcp.ibytedtos.com/goofy/falcon/tiktok/feedback/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-va.ibytedtos.com/goofy/falcon/tiktok/feedback/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-sg.ibytedtos.com/goofy/falcon/tiktok/feedback/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-sg.ibytedtos.com/goofy/i18n/ecom/shop_h5/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-sg.ibytedtos.com/obj/goofy-sg/cg/fe/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-va.ibytedtos.com/obj/goofy-va/cg/fe/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://cdn-tos-sg.byteintl.net/obj/archi-sg/ies/capcut/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://lf16-csp.ibytedtos.com/obj/ies-csp-resource-aiso/static/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://lf16-csp.ibytedtos.com/obj/ies-csp-resource-sg/static/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://lf16-csp.ibytedtos.com/obj/ies-csp-resource-us/static/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-sg.ibytedtos.com/goofy/tiktok/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-va.ibytedtos.com/goofy/tiktok/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-sg.ibytedtos.com/goofy/magic/eco/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-va.ibytedtos.com/goofy/magic/eco/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://s1.ipstatp.com/resso/campaign/tiktok/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://s16-ies.tiktok.com/ies-cdn-alisg/tiktok_activities/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-va.ibytedtos.com/goofy/armor-i18n/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-sg.ibytedtos.com/goofy/procode/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-scmcdn-va.ibytedtos.com/goofy/procode/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://sf16-muse-va.ibytedtos.com/obj/ug-edu-us/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://s16.tiktokcdn.com/tiktok/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://activity.tiktok.com/magic/eco/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://s0.ipstatp.com/tiktok/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://s16.tiktokcdn.com/ies/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://www.tiktok.com/falcon/tiktok/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://m.tiktok.com/magic/eco/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://7/gecko/resource/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://8/gecko/resource/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://p16-magic-sg.ibyteimg.com/tos-alisg-i-bhznd1iaig-sg/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://p19-magic-sg.ibyteimg.com/tos-alisg-i-bhznd1iaig-sg/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://p16-magic-va.ibyteimg.com/tos-alisg-i-bhznd1iaig-sg/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://p19-magic-va.ibyteimg.com/tos-alisg-i-bhznd1iaig-sg/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://courses.snapsolve.com/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://s0.ipstatp.com/feoffline/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://s16.tiktokcdn.com/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://oec-api.tiktokv.com/view/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://m.tiktok.com/feoffline/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://seller-id.tiktok.com/m/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://www.tiktok.com/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://m.tiktok.com/falcon/"
+                                        }, 
+                                        {
+                                            "b": "http(s?)://t.tiktok.com/falcon/"
+                                        }
+                                    ]
+                                }, 
+                                "iwk_fetch_auth_infos_delay": {
+                                    "b": {
+                                        "a": "45"
+                                    }
+                                }, 
+                                "ad_wk_allow": {
+                                    "b": false
+                                }, 
+                                "network_merge_props_in_one_loop": {
+                                    "b": true
+                                }, 
+                                "general_search_load_more_remains": {
+                                    "b": {
+                                        "a": "2"
+                                    }
+                                }, 
+                                "preload_emotion_images": {
+                                    "b": true
+                                }, 
+                                "disable_check_login_state_when_session_expired": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }, 
+                                "enable_new_user_gecko_optimization": {
+                                    "b": false
+                                }, 
+                                "awe_fetch_telecom_mobile_enabled": {
+                                    "b": false
+                                }, 
+                                "storage_config": {
+                                    "a": {
+                                        "new_imp_enable": {
+                                            "b": true
+                                        }
+                                    }
+                                }, 
+                                "use_cookie_plugin": {
+                                    "b": true
+                                }, 
+                                "awe_ttnet_switches": {
+                                    "a": {
+                                        "gecko": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "web_image": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "effect_platform": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "bdweb_image": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "ttfile_upload": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "awe_network_x_token_enabled": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "enable_ddlog": {
+                                    "b": false
+                                }, 
+                                "enable_transitionView_frame_fix": {
+                                    "b": false
+                                }, 
+                                "tmp_cache_whitelist": {
+                                    "a": [
+                                        {
+                                            "b": "com.apple.dyld"
+                                        }, 
+                                        {
+                                            "b": "acc"
+                                        }
+                                    ]
+                                }, 
+                                "awe_gecko_channels": {
+                                    "a": [
+                                        {
+                                            "b": "wallet"
+                                        }, 
+                                        {
+                                            "b": "falcon_dyfe"
+                                        }, 
+                                        {
+                                            "b": "fe_activity"
+                                        }, 
+                                        {
+                                            "b": "fe_activity_ios_test"
+                                        }, 
+                                        {
+                                            "b": "webcast_inroom"
+                                        }, 
+                                        {
+                                            "b": "tiktokm_fission"
+                                        }
+                                    ]
+                                }, 
+                                "runner_validate": {
+                                    "b": true
+                                }, 
+                                "migrate_legacy_database": {
+                                    "b": false
+                                }, 
+                                "awe_launch": {
+                                    "a": {
+                                        "delay_fabric_enable": {
+                                            "b": false
+                                        }, 
+                                        "fabric_start_stage": {
+                                            "b": {
+                                                "a": "100"
+                                            }
+                                        }, 
+                                        "shared_telephony_info": {
+                                            "b": true
+                                        }, 
+                                        "process_info_enable": {
+                                            "b": true
+                                        }
+                                    }
+                                }, 
+                                "search_refresh_safely_dispatch": {
+                                    "b": true
+                                }, 
+                                "awe_commerce": {
+                                    "a": {
+                                        "symphony": {
+                                            "b": {
+                                                "a": "0"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "awe_audio": {
+                                    "a": {
+                                        "player_type": {
+                                            "b": {
+                                                "a": "0"
+                                            }
+                                        }, 
+                                        "stream_play": {
+                                            "b": true
+                                        }
+                                    }
+                                }, 
+                                "enable_deprecated_token_update": {
+                                    "b": false
+                                }, 
+                                "aweme_ui_swizzle_enable": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "snapchat_share_no_url": {
+                                    "b": false
+                                }, 
+                                "enable_im_safe_refresh": {
+                                    "b": true
+                                }, 
+                                "enable_twitter_new_key_and_secret": {
+                                    "b": true
+                                }, 
+                                "awe_security_center_v2": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "aweme_resource_enable": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }, 
+                                "awe_falcon_enable": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "preconfig_with_fake_model": {
+                                    "b": true
+                                }, 
+                                "awe_boottask": {
+                                    "a": { }
+                                }, 
+                                "aweme_security_enable_check_environment_safe_status": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }
+                            }
+                        }, 
+                        "live_link_report_schema": {
+                            "b": "aweme://lynxview_popup/?channel=tiktok_ba_lynx_v2&bundle=live-report%2Ftemplate.js&hide_nav_bar=1&use_bdx=1&trans_status_bar=1&group=tiktok_ba_lynx_v2&hide_status_bar=0&fallback_url=https%3A%2F%2Fwww.tiktok.com%2Ffalcon%2Ftiktok_ba_lynx_v2%2Flive-report%3Ftest%3D1&test=1"
+                        }, 
+                        "hproject_settings": {
+                            "a": {
+                                "enable": {
+                                    "b": false
+                                }
+                            }
+                        }, 
+                        "allow_message_big_style": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "aweme_push_config": {
+                            "a": {
+                                "oppo_push_style": {
+                                    "b": {
+                                        "a": "21"
+                                    }
+                                }, 
+                                "wait_screen_on_duration": {
+                                    "b": {
+                                        "a": "5000"
+                                    }
+                                }, 
+                                "redbadge_use_last": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "show_float_window": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }, 
+                                "float_window_show_time": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }, 
+                                "push_clear_switch": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "turn_screen_on": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }, 
+                                "date_change_delay_interval": {
+                                    "b": {
+                                        "a": "300000"
+                                    }
+                                }, 
+                                "oppo_unify_style": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }
+                            }
+                        }, 
+                        "new_natant_style": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "desktop_red_badge_args": {
+                            "a": {
+                                "strategy": {
+                                    "b": "strategy_time_interval_v2_anti1"
+                                }, 
+                                "query_waiting_duration": {
+                                    "b": {
+                                        "a": "30"
+                                    }
+                                }, 
+                                "max_show_times": {
+                                    "b": {
+                                        "a": "3"
+                                    }
+                                }
+                            }
+                        }, 
+                        "new_video_player_flag": {
+                            "b": {
+                                "a": "2"
+                            }
+                        }, 
+                        "aweme_fe_conf": {
+                            "a": { }
+                        }, 
+                        "video_engine_render_engine": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "webview_fallback": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "use_sys_notification_style": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "tt_video_hold_audio_focus_onpause": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "dmt_login_config": {
+                            "a": {
+                                "enable_authorize_instagram_with_english": {
+                                    "b": false
+                                }
+                            }
+                        }, 
+                        "allow_settings_notify_enable": {
+                            "b": {
+                                "a": "1"
+                            }
+                        }, 
+                        "folder_comments_of_article_detail": {
+                            "b": {
+                                "a": "1"
+                            }
+                        }, 
+                        "sdk_key_imsdk": {
+                            "a": {
+                                "im_config": {
+                                    "a": {
+                                        "autoPollingMsgEnabled": {
+                                            "b": {
+                                                "a": "0"
+                                            }
+                                        }, 
+                                        "conversationMsgRepairInterval": {
+                                            "b": {
+                                                "a": "86400000"
+                                            }
+                                        }, 
+                                        "repairEnabled": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "dbReportRate": {
+                                            "b": {
+                                                "a": "0.02"
+                                            }
+                                        }, 
+                                        "triggerPollingMsgEnabled": {
+                                            "b": {
+                                                "a": "0"
+                                            }
+                                        }, 
+                                        "p2pMinInterval": {
+                                            "b": {
+                                                "a": "100"
+                                            }
+                                        }, 
+                                        "conversationMsgRepairRatio": {
+                                            "b": {
+                                                "a": "0"
+                                            }
+                                        }, 
+                                        "ws_report_interval": {
+                                            "b": {
+                                                "a": "300"
+                                            }
+                                        }, 
+                                        "is_switch_to_foreground_pull_msg": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "is_net_change_pull_msg": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "defaultPollingMsgInterval": {
+                                            "b": {
+                                                "a": "60"
+                                            }
+                                        }, 
+                                        "conversationMsgRepairCount": {
+                                            "b": {
+                                                "a": "50"
+                                            }
+                                        }, 
+                                        "auto_polling_when_no_ws": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "p2pEnabled": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }, 
+                                        "app_log_rate": {
+                                            "b": "{\"default_rate\":1}"
+                                        }, 
+                                        "conversationMsgRepairStart": {
+                                            "b": {
+                                                "a": "0"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }, 
+                        "permanent_notify_enable": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "aweme_third_party_music_icon": {
+                            "a": {
+                                "info": {
+                                    "a": [
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "awa"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16-tiktokcdn-com.akamaized.net/img/tiktok-obj/1647451889120262~noop.image"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }, 
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "line"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16-tiktokcdn-com.akamaized.net/img/tiktok-obj/musicPartners_Line.png~noop.image"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }, 
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "resso"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/image/bbae9f5a223442953c97d40aedb3c833.png"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }, 
+                                "text": {
+                                    "b": "Play full song"
+                                }
+                            }
+                        }, 
+                        "repost_delete_hint": {
+                            "b": ""
+                        }, 
+                        "detail_wk_enable": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "user_badge_click_settings": {
+                            "a": {
+                                "action": {
+                                    "a": {
+                                        "1": {
+                                            "a": {
+                                                "action_type": {
+                                                    "b": {
+                                                        "a": "1"
+                                                    }
+                                                }
+                                            }
+                                        }, 
+                                        "2": {
+                                            "a": {
+                                                "link": {
+                                                    "b": ""
+                                                }, 
+                                                "action_type": {
+                                                    "b": {
+                                                        "a": "2"
+                                                    }
+                                                }
+                                            }
+                                        }, 
+                                        "3": {
+                                            "a": {
+                                                "action_type": {
+                                                    "b": {
+                                                        "a": "1"
+                                                    }
+                                                }
+                                            }
+                                        }, 
+                                        "commerce_user": {
+                                            "a": {
+                                                "action_type": {
+                                                    "b": {
+                                                        "a": "1"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }, 
+                        "allow_message_small_style": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "is_desktop_red_badge_show": {
+                            "b": {
+                                "a": "1"
+                            }
+                        }, 
+                        "aweme_comment_fluency_opt_live_avatar_setting": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "category_tip_duration": {
+                            "b": {
+                                "a": "10"
+                            }
+                        }, 
+                        "aweme_show_mask_times": {
+                            "b": {
+                                "a": "3"
+                            }
+                        }, 
+                        "aweme_live_podcast": {
+                            "a": {
+                                "can_be_obs_live_podcast": {
+                                    "b": true
+                                }
+                            }
+                        }, 
+                        "show_floating_refresh_btn": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "tt_user_decoration_switch": {
+                            "b": false
+                        }, 
+                        "repost_review_hint": {
+                            "b": ""
+                        }, 
+                        "motor_sf_settings": {
+                            "a": {
+                                "enable": {
+                                    "b": false
+                                }
+                            }
+                        }, 
+                        "sdk_key_pipo_pay": {
+                            "a": {
+                                "need_ack_after_success_query": {
+                                    "b": true
+                                }, 
+                                "gecko_config": {
+                                    "a": {
+                                        "access_key": {
+                                            "b": "6769d15c1fc4ebff20d79aebbe0f0cfa"
+                                        }, 
+                                        "check_update_interval": {
+                                            "b": {
+                                                "a": "3000"
+                                            }
+                                        }, 
+                                        "offline_prefix": {
+                                            "a": [
+                                                {
+                                                    "b": "/goofy/pipo/fe/cashier_withdraw/payout"
+                                                }, 
+                                                {
+                                                    "b": "/obj/goofy-sg/pipo/fe/cashier_withdraw/payout"
+                                                }
+                                            ]
+                                        }, 
+                                        "enable_gecko": {
+                                            "b": true
+                                        }, 
+                                        "enable_gecko_template": {
+                                            "b": true
+                                        }, 
+                                        "enable_buildin_template": {
+                                            "b": true
+                                        }, 
+                                        "default_group": {
+                                            "b": "tt_group"
+                                        }, 
+                                        "enable_buildin": {
+                                            "b": true
+                                        }, 
+                                        "retry_times": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "auto_ack_after_upload_token_in_ms": {
+                                    "b": {
+                                        "a": "120000"
+                                    }
+                                }, 
+                                "pipo_process_settings": {
+                                    "b": true
+                                }, 
+                                "GeckoOffline": {
+                                    "a": {
+                                        "access_key": {
+                                            "b": "6769d15c1fc4ebff20d79aebbe0f0cfa"
+                                        }, 
+                                        "check_update_interval": {
+                                            "b": {
+                                                "a": "3000"
+                                            }
+                                        }, 
+                                        "offline_prefix": {
+                                            "a": [
+                                                {
+                                                    "b": "/growth/luckycat/lynx"
+                                                }, 
+                                                {
+                                                    "b": "/growth/luckycat/web"
+                                                }
+                                            ]
+                                        }, 
+                                        "enable_gecko": {
+                                            "b": true
+                                        }, 
+                                        "enable_gecko_template": {
+                                            "b": true
+                                        }, 
+                                        "enable_buildin_template": {
+                                            "b": true
+                                        }, 
+                                        "default_group": {
+                                            "b": "tt_group"
+                                        }, 
+                                        "enable_buildin": {
+                                            "b": true
+                                        }, 
+                                        "retry_times": {
+                                            "b": {
+                                                "a": "1"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "payment_settings_request_interval": {
+                                    "b": {
+                                        "a": "10800000"
+                                    }
+                                }, 
+                                "restore_settings": {
+                                    "a": {
+                                        "use_new_logic_on_purchase_ok": {
+                                            "b": false
+                                        }, 
+                                        "max_restore_order_time": {
+                                            "b": {
+                                                "a": "259200000"
+                                            }
+                                        }, 
+                                        "use_new_restore_order": {
+                                            "b": true
+                                        }, 
+                                        "restore_order_task_delay": {
+                                            "b": {
+                                                "a": "1000"
+                                            }
+                                        }, 
+                                        "restore_order_interval": {
+                                            "b": {
+                                                "a": "5000"
+                                            }
+                                        }, 
+                                        "try_to_start_restore_task_delay": {
+                                            "b": {
+                                                "a": "2000"
+                                            }
+                                        }
+                                    }
+                                }, 
+                                "webview_config": {
+                                    "a": {
+                                        "secure_domain_list_for_h5": {
+                                            "a": [
+                                                {
+                                                    "b": ".bytedance.net"
+                                                }, 
+                                                {
+                                                    "b": ".snssdk.com"
+                                                }, 
+                                                {
+                                                    "b": ".isnssdk.com"
+                                                }, 
+                                                {
+                                                    "b": ".sgsnssdk.com"
+                                                }, 
+                                                {
+                                                    "b": ".tzvbfs.com"
+                                                }, 
+                                                {
+                                                    "b": ".tiktokv.com"
+                                                }, 
+                                                {
+                                                    "b": ".byteintl.com"
+                                                }, 
+                                                {
+                                                    "b": ".tiktok.com"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }, 
+                        "get_mobile_delay": {
+                            "b": {
+                                "a": "1"
+                            }
+                        }, 
+                        "video_feed_url": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "category_refresh_interval": {
+                            "b": {
+                                "a": "21600"
+                            }
+                        }, 
+                        "lazy_load_policy": {
+                            "b": {
+                                "a": "1"
+                            }
+                        }, 
+                        "allow_statistics_shumeng": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "clear_app_notify": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "bold_font_flag": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "aweme_activity_setting": {
+                            "a": { }
+                        }, 
+                        "click_monitor": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "tt_allow_custom_message_big_style": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "key_allow_regist_device_manager": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "sdk_key_PushSDK": {
+                            "a": {
+                                "frontier_strategy": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "enable_pass_through_redbadge_show": {
+                                    "b": false
+                                }, 
+                                "ttpush_allow_push_job_service": {
+                                    "b": true
+                                }, 
+                                "pass_though_new_activity": {
+                                    "b": true
+                                }, 
+                                "is_notify_service_stick": {
+                                    "b": true
+                                }, 
+                                "enable_monitor_association_start": {
+                                    "b": false
+                                }, 
+                                "ttpush_alv_white_list": {
+                                    "a": [ ]
+                                }, 
+                                "is_use_start_foreground_notification": {
+                                    "b": true
+                                }, 
+                                "enable_redbadge_auto_dismiss": {
+                                    "b": false
+                                }, 
+                                "remove_auto_boot_v2": {
+                                    "b": true
+                                }, 
+                                "check_sign_v2": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "ttpush_allow_off_alive": {
+                                    "b": true
+                                }, 
+                                "need_control_miui_flares_v2": {
+                                    "b": true
+                                }, 
+                                "need_control_miui_flares": {
+                                    "b": false
+                                }, 
+                                "ttpush_update_token_interval": {
+                                    "b": {
+                                        "a": "86400000"
+                                    }
+                                }, 
+                                "enable_hw_analytics": {
+                                    "b": false
+                                }, 
+                                "ttpush_allow_close_boot_receiver": {
+                                    "b": true
+                                }, 
+                                "pull_api_strategy": {
+                                    "b": {
+                                        "a": "0"
+                                    }
+                                }, 
+                                "ttpush_update_sender_interval": {
+                                    "b": {
+                                        "a": "10800000"
+                                    }
+                                }, 
+                                "wakeup_support_strategy": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }, 
+                                "pull_redbadge_strategy": {
+                                    "b": "strategy_default"
+                                }, 
+                                "ttpush_i18n_allow_push_daemon_monitor": {
+                                    "b": false
+                                }, 
+                                "ttpush_allow_push_daemon_monitor": {
+                                    "b": false
+                                }, 
+                                "ttpush_i18n_allow_off_alive": {
+                                    "b": false
+                                }, 
+                                "remove_umeng_autoboot": {
+                                    "b": true
+                                }, 
+                                "ttpush_ka_setting": {
+                                    "a": {
+                                        "e_d_m": {
+                                            "b": false
+                                        }, 
+                                        "enable": {
+                                            "b": false
+                                        }, 
+                                        "active_interval": {
+                                            "b": {
+                                                "a": "10000"
+                                            }
+                                        }, 
+                                        "bg_protect_interval": {
+                                            "b": {
+                                                "a": "2000"
+                                            }
+                                        }, 
+                                        "daemon_name": {
+                                            "b": "times_daemon"
+                                        }, 
+                                        "double_check": {
+                                            "b": true
+                                        }
+                                    }
+                                }, 
+                                "ttpush_use_start_foreground_notification": {
+                                    "b": true
+                                }, 
+                                "ttpush_enable_restrict_update_token": {
+                                    "b": true
+                                }, 
+                                "enable_report_client_feature": {
+                                    "b": false
+                                }, 
+                                "check_sign": {
+                                    "b": {
+                                        "a": "1"
+                                    }
+                                }
+                            }
+                        }, 
+                        "aweme_music_ailab": {
+                            "a": { }
+                        }, 
+                        "allow_message_cache": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "category_style_conf": {
+                            "a": { }
+                        }, 
+                        "disable_delay_finish": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "webview_https_enable": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "article_expire_seconds": {
+                            "b": {
+                                "a": "600"
+                            }
+                        }, 
+                        "comment_new_imp_enabled": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "tt_allow_custom_message_small_style": {
+                            "b": {
+                                "a": "0"
+                            }
+                        }, 
+                        "aweme_third_party_music_cover": {
+                            "a": {
+                                "info": {
+                                    "a": [
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "awa"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1621528180154370.PNG"
+                                                        }, 
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1621528180154370.PNG"
+                                                        }, 
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1621528180154370.PNG"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }, 
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "line"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1631660806139906.PNG"
+                                                        }, 
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1631660806139906.PNG"
+                                                        }, 
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1631660806139906.PNG"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }, 
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "melon"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1635569816534034.PNG"
+                                                        }, 
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1635569816534034.PNG"
+                                                        }, 
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1635569816534034.PNG"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }, 
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "netease"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1622093447364610.PNG"
+                                                        }, 
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1622093447364610.PNG"
+                                                        }, 
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/obj/tiktok-obj/1622093447364610.PNG"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }, 
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "awa_light"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16.muscdn.com/img/musically-maliva-obj/1647637832337414~noop.image"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }, 
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "line_light"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16-va.tiktokcdn.com/img/tiktok-obj/1648084748199942~noop.image"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }, 
+                                        {
+                                            "a": {
+                                                "partner_name": {
+                                                    "b": "melon_light"
+                                                }, 
+                                                "url_list": {
+                                                    "a": [
+                                                        {
+                                                            "b": "https://p16.tiktokcdn.com/img/tiktok-obj/1648719529533445~noop.image"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }, 
+        "message": {
+            "b": "success"
+        }
+    }
+}

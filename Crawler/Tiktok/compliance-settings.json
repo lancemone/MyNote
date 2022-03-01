@@ -1,0 +1,418 @@
+{
+    "adPersonalitySettings": {
+        "business": "",
+        "description": "",
+        "isFollowSystemConfig": false,
+        "isShowSettings": false,
+        "lat": false,
+        "mode": 0,
+        "needPopUp": false,
+        "paMainTitle": "",
+        "partnerAdMode": 0,
+        "showInterestLabel": false,
+        "showPartnerAd": false,
+        "showThirdAd": false,
+        "showThirdPartyMeasurement": false,
+        "thirdAdMode": 0
+    },
+    "addTermsConsentForRegister": false,
+    "afSharingBlock": false,
+    "ageGateInfo": {
+        "registerAgeGateAction": 2
+    },
+    "algoFreeEnabled": false,
+    "complianceEncrypt": "UNKNOWN",
+    "defaultVpaContentChoice": 1,
+    "deviceLimitRegisterExpiredTime": 0,
+    "enableImpressum": 0,
+    "enableTermsConsentPopup": false,
+    "enableVpa": false,
+    "familyPairing": "Family Pairing",
+    "forcePrivateAccount": false,
+    "interfaceControlSettingsString": "{\"rules\":null,\"use_new_control\":true,\"user_type\":\"-1\",\"version\":\"5\"}",
+    "isMinor": false,
+    "isTeenageModeSelf": false,
+    "logPb": {
+        "imprId": "20211216124954010245242107190CDA2D"
+    },
+    "minorControlType": 0,
+    "notifyPrivateAccount": 0,
+    "policyNoticeEnable": true,
+    "privacyPolicyUrl": "https://www.tiktok.com/legal/privacy-policy-row",
+    "privacySettingRestriction": {
+        "a": {
+            "stitch": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 3,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "favorite": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "filter_spam": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "download": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 3,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "sug_to_fb_friends": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "sug_to_mutual_connections": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "duet": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 3,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "comment": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 3,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "chatsets": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 3,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "sug_to_who_share_link": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "sug_to_interested_users": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "group_chat": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "following_visibility": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "private_account": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "hide_search": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "sug_to_contacts": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 2,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            }
+        },
+        "b": {
+            "stitch": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "duet": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            }
+        },
+        "c": {
+            "duet": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            },
+            "stitch": {
+                "a": 0,
+                "b": 0,
+                "c": [
+                    {
+                        "a": 1,
+                        "b": 0,
+                        "c": 0
+                    },
+                    {
+                        "a": 0,
+                        "b": 0,
+                        "c": 0
+                    }
+                ],
+                "d": 0
+            }
+        }
+    },
+    "teensModeAlertCount": 0,
+    "timeLockSelfInMin": 0,
+    "error_code": 0,
+    "extra": {
+        "logid": "20211216124954010245242107190CDA2D",
+        "now": 1639658994000
+    },
+    "status_code": 0
+}
