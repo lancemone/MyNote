@@ -154,13 +154,13 @@ git checkout <分支>: 检出分支
 建立追踪关系，在现有分支与指定的远程分支之间
 #### branch -d [branch-name]
 删除完全合并的分支
-#### #### branch -D [branch-name]
+#### branch -D [branch-name]
 删除分支（即使没有合并）
-#### #### branch -m [branch-name]
+#### branch -m [branch-name]
 移动/重命名一个分支，以及它的引用日志
-#### #### branch -M [branch-name]
+#### branch -M [branch-name]
 删除分支（即使没有合并）
-#### #### branch -r/--remotes
+#### branch -r/--remotes
 作用于远程分支，比如
 > git branch -dr [remote/branch]    // 删除远程分支
 
